@@ -1,0 +1,1 @@
+- Exploration of some quantitative stragegies that can be employed to select optimal combination of ETF's.
